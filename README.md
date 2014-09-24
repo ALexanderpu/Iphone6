@@ -1,10 +1,11 @@
 Iphone6
 =======
 
-Simulation on the phone
+Simulating the process of sending SMS on the phone
 
-All right reserved by lexander pu
-Contact by Address:
-Beijing Haidian District
-Beijing Institude of Technology
-Academy of Computer Science and Technology 
+All right reserved by Alexander pu
+Contact Author by Address:
+City:Beijing
+Haidian District
+School:Beijing Institude of Technology
+Academy:Computer Science and Technology 
