@@ -1,0 +1,6 @@
+E:\Users\Alexander_pu\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.exe.config
+E:\Users\Alexander_pu\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+E:\Users\Alexander_pu\Documents\Visual Studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+E:\Users\Alexander_pu\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Users\Alexander_pu\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+E:\Users\Alexander_pu\Documents\Visual Studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
