@@ -8,24 +8,25 @@
         <ImageBrush ImageSource="Images\background1.png"></ImageBrush>
     </Window.Background>
     <Grid RenderTransformOrigin="0.437,0.468">
-        <Label Content="收件人：" HorizontalAlignment="Left" Margin="33,113,0,0" VerticalAlignment="Top" Height="41" Width="76" RenderTransformOrigin="0.757,1.066" FontSize="18"/>
+        <Label Content="收件人：" HorizontalAlignment="Left" Margin="33,113,0,0" VerticalAlignment="Top" Height="41" Width="76" RenderTransformOrigin="0.757,1.066" FontSize="18" Foreground="#FF6FE8E8" FontWeight="Bold"/>
         <!--<Button Content="发送" HorizontalAlignment="Left" Margin="38,484,0,0" VerticalAlignment="Top" Width="75"/>-->
-        <Image x:Name="Send_message_Click" Height="50" Margin="129,456,121,0" VerticalAlignment="Top" Width="50" Source="Images\writemessage.png" MouseLeftButtonDown="send_message_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
+        <Image x:Name="Send_message_Click" Height="61" Margin="221,445,29,0" VerticalAlignment="Top" Width="50" Source="Images\writemessage.png" MouseLeftButtonDown="send_message_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
         <!--<Button Content="返回" HorizontalAlignment="Left" Margin="173,484,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>-->
         <Image x:Name="Back" Height="50" Margin="129,540,121,0" VerticalAlignment="Top" Width="50" Source="Images\back.png" MouseLeftButtonDown="back_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
         <ComboBox x:Name="LinknumberBox" HorizontalAlignment="Left" Height="30" Margin="109,113,0,0" VerticalAlignment="Top" Width="162" SelectionChanged="LinknumberBox_SelectionChanged"/>
-        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="29" Margin="33,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"/>
-        <CheckBox x:Name="Timebox" Content="定时发送" HorizontalAlignment="Left" Height="21" Margin="33,221,0,0" VerticalAlignment="Top" Width="86" Checked="CheckBox_Checked"/>
-        <Label Content="写信息：" HorizontalAlignment="Left" Height="27" Margin="33,308,0,0" VerticalAlignment="Top" Width="61"/>
-        <TextBox x:Name="NewmessageBox" HorizontalAlignment="Left" Height="102" Margin="33,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" TextChanged="NewmessageBox_TextChanged"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="90" Margin="33,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"/>
+        <CheckBox x:Name="Timebox" Content="定时发送" HorizontalAlignment="Left" Height="21" Margin="185,409,0,0" VerticalAlignment="Top" Width="86" Checked="CheckBox_Checked" RenderTransformOrigin="1,0.524" Foreground="#FFF1C8C8"/>
+        <Label Content="写信息：" HorizontalAlignment="Left" Height="27" Margin="33,403,0,0" VerticalAlignment="Top" Width="61" Foreground="#FFFFE9E9"/>
+        <TextBox x:Name="NewmessageBox" HorizontalAlignment="Left" Height="61" Margin="33,445,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" TextChanged="NewmessageBox_TextChanged"/>
         <Label x:Name="StatusBar" Content="" HorizontalAlignment="Left" Margin="43,83,0,0" VerticalAlignment="Top" Width="172"/>
-        <DatePicker x:Name="GetTime" HorizontalAlignment="Left" Margin="33,242,0,0" VerticalAlignment="Top" Width="238"/>
-        <TextBox x:Name="hour" HorizontalAlignment="Left" Height="23" Margin="33,285,0,0" TextWrapping="Wrap" Text="08" VerticalAlignment="Top" Width="48"/>
-        <TextBox x:Name="min" HorizontalAlignment="Left" Height="23" Margin="109,285,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="50"/>
-        <TextBox x:Name="sec" HorizontalAlignment="Left" Height="23" Margin="193,285,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="47" RenderTransformOrigin="0.787,0.304"/>
-        <Label x:Name="___无名称_" Content="时" HorizontalAlignment="Left" Margin="82,283,0,0" VerticalAlignment="Top"/>
-        <Label Content="分" HorizontalAlignment="Left" Margin="161,283,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.136,0.32"/>
-        <Label x:Name="content" Content="秒" HorizontalAlignment="Left" Margin="240,283,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="GetTime" HorizontalAlignment="Left" Margin="33,320,0,0" VerticalAlignment="Top" Width="238"/>
+        <TextBox x:Name="hour" HorizontalAlignment="Left" Height="23" Margin="33,361,0,0" TextWrapping="Wrap" Text="08" VerticalAlignment="Top" Width="48"/>
+        <TextBox x:Name="min" HorizontalAlignment="Left" Height="23" Margin="113,361,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="50"/>
+        <TextBox x:Name="sec" HorizontalAlignment="Left" Height="23" Margin="186,361,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="47" RenderTransformOrigin="0.787,0.304"/>
+        <Label x:Name="___无名称_" Content="时" HorizontalAlignment="Left" Margin="86,361,0,0" VerticalAlignment="Top" Foreground="#FFF5DADA"/>
+        <Label Content="分" HorizontalAlignment="Left" Margin="164,361,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.136,0.32" Foreground="#FFF7EBEB"/>
+        <Label x:Name="content" Content="秒" HorizontalAlignment="Left" Margin="238,361,0,0" VerticalAlignment="Top" Foreground="#FFF9EAEA"/>
+        <Label Content="群发号码：" HorizontalAlignment="Left" Height="27" Margin="33,148,0,0" VerticalAlignment="Top" Width="76" Foreground="#FF1C5474" FontWeight="Bold" FontSize="14.667"/>
 
     </Grid>
 </Window>

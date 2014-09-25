@@ -1,0 +1,30 @@
+F:\C programming language\WPF\gif\gif\bin\Debug\gif.exe.config
+F:\C programming language\WPF\gif\gif\bin\Debug\gif.exe
+F:\C programming language\WPF\gif\gif\bin\Debug\gif.pdb
+F:\C programming language\WPF\gif\gif\bin\Debug\GifImageLib.exe
+F:\C programming language\WPF\gif\gif\bin\Debug\GifImageLib.pdb
+F:\C programming language\WPF\gif\gif\obj\Debug\gif.csprojResolveAssemblyReference.cache
+F:\C programming language\WPF\gif\gif\obj\Debug\MainWindow.baml
+F:\C programming language\WPF\gif\gif\obj\Debug\MainWindow.g.cs
+F:\C programming language\WPF\gif\gif\obj\Debug\App.g.cs
+F:\C programming language\WPF\gif\gif\obj\Debug\gif_MarkupCompile.cache
+F:\C programming language\WPF\gif\gif\obj\Debug\gif.g.resources
+F:\C programming language\WPF\gif\gif\obj\Debug\gif.Properties.Resources.resources
+F:\C programming language\WPF\gif\gif\obj\Debug\gif.csproj.GenerateResource.Cache
+F:\C programming language\WPF\gif\gif\obj\Debug\gif.exe
+F:\C programming language\WPF\gif\gif\obj\Debug\gif.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\bin\Debug\gif.exe.config
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\bin\Debug\gif.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\bin\Debug\gif.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\bin\Debug\GifImageLib.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\bin\Debug\GifImageLib.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif.csprojResolveAssemblyReference.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\MainWindow.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\MainWindow.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\App.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif_MarkupCompile.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif.g.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif.Properties.Resources.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif.csproj.GenerateResource.Cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\gif\obj\Debug\gif.pdb

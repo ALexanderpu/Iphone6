@@ -18,7 +18,7 @@
 			</TransformGroup>
 		</Grid.RenderTransform>
 		<ListBox x:Name="Messagebox" HorizontalAlignment="Left" Height="230.07" Margin="31,204.921,0,0" VerticalAlignment="Top" Width="236" SelectionChanged="Messagebox_SelectionChanged"/>
-		<Label x:Name="SomeoneNum" Content="PhoneNumber" HorizontalAlignment="Left" Height="37" Margin="155.034,77.954,0,0" VerticalAlignment="Top" Width="105" FontFamily="Curlz MT" FontSize="16" RenderTransformOrigin="0.5,0.5" FontWeight="Bold">
+		<Label x:Name="SomeoneNum" Content="PhoneNumber" HorizontalAlignment="Left" Height="37" Margin="155.028,94.954,0,0" VerticalAlignment="Top" Width="119.989" FontFamily="Ebrima" FontSize="16" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" Background="{x:Null}" Foreground="#FF77ECA7">
 			<Label.RenderTransform>
 				<TransformGroup>
 					<ScaleTransform/>
@@ -32,8 +32,9 @@
 		<Image x:Name="Send_message_Click" HorizontalAlignment="Left" Height="48.955" Margin="207,459.941,0,0" VerticalAlignment="Top" Width="60" Source="Images\writemessage.png" MouseLeftButtonDown="send_message_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
 		<Image x:Name="Back" Height="54" Margin="124,521,128,0" VerticalAlignment="Top" Source="Images\back.png" MouseLeftButtonDown="back_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
 		<Label x:Name="StatusBar" Content="" HorizontalAlignment="Left" Margin="57,66,0,0" VerticalAlignment="Top" Width="162"/>
-		<Button Content="删除联系人及会话" HorizontalAlignment="Left" Margin="159,142.262,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click" Height="21"/>
-		<Button Content="添加昵称" HorizontalAlignment="Left" Margin="159,180.681,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click_1"/>
-		<TextBox x:Name="name" HorizontalAlignment="Left" Height="19" Margin="31,180.681,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="111" Background="White"/>
+		<Button Content="删除联系人及会话" HorizontalAlignment="Left" Margin="159,142.262,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click" Height="21" Foreground="#FF400F0F" Background="#FFCFBDAF"/>
+		<Button Content="添加昵称" HorizontalAlignment="Left" Margin="159,180.681,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click_1" Background="#FFE4D6CB" Foreground="#FF723A3A"/>
+		<TextBox x:Name="name" HorizontalAlignment="Left" Height="19" Margin="31,180.681,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="90.872" Background="White"/>
+		<Image Margin="31,91.24,178.128,414.319" Source="Images/ContactIcon.png" Stretch="Fill"/>
 	</Grid>
 </Window>

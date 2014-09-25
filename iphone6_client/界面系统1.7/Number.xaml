@@ -8,9 +8,9 @@
         <ImageBrush ImageSource="Images\background1.png"></ImageBrush>
     </Window.Background>
     <Grid>
-        <Label Content="Please" HorizontalAlignment="Left" Margin="95,128,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Curlz MT" FontWeight="Bold"/>
+        <Label Content="Please" HorizontalAlignment="Left" Margin="95,140,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="David" FontWeight="Bold" Background="{x:Null}" Foreground="#FFA23A86"/>
         <Image x:Name="Back" Height="50" Margin="124,533,126,0" VerticalAlignment="Top" Width="50" Source="Images\back.png" MouseLeftButtonDown="back_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
-        <Label Content="Input" HorizontalAlignment="Left" Height="55" Margin="95,191,0,0" VerticalAlignment="Top" Width="97.223" FontFamily="Curlz MT" FontSize="36" FontWeight="Bold"/>
-        <Label Content="Again" HorizontalAlignment="Left" Height="61" Margin="95,253,0,0" VerticalAlignment="Top" Width="117" FontFamily="Curlz MT" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Input" HorizontalAlignment="Left" Height="55" Margin="95,191,0,0" VerticalAlignment="Top" Width="97.223" FontFamily="DokChampa" FontSize="36" FontWeight="Bold" Foreground="#FF470C37"/>
+        <Label Content="Again" HorizontalAlignment="Left" Height="61" Margin="95,253,0,0" VerticalAlignment="Top" Width="117" FontFamily="DokChampa" FontSize="36" FontWeight="Bold" Foreground="#FFAC2988"/>
     </Grid>
 </Window>

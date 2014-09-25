@@ -8,8 +8,8 @@
         <ImageBrush ImageSource="Images\background1.png"></ImageBrush>
     </Window.Background>
     <Grid>
-        <Label Content="DELETE?" HorizontalAlignment="Left" Height="112" Margin="20,192,0,0" VerticalAlignment="Top" Width="272" FontFamily="Curlz MT" FontSize="66" FontWeight="Bold"/>
-        <Image x:Name="ok" Height="50" Margin="62,379,180,0" VerticalAlignment="Top" Width="50" Source="Images\Tick.png" MouseLeftButtonDown="ok_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
-        <Image x:Name="no" Height="50" Margin="183,379,59,0" VerticalAlignment="Top" Width="50" Source="Images\failed.png" MouseLeftButtonDown="no_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
+        <Label Content="DELETE ?" HorizontalAlignment="Left" Height="99" Margin="40,231,0,0" VerticalAlignment="Top" Width="220" FontSize="66" FontWeight="Bold" RenderTransformOrigin="0.49,0.404" FontFamily="Mistral" Background="{x:Null}"/>
+        <Image x:Name="ok" Height="50" Margin="55,445,195,0" VerticalAlignment="Top" Width="50" Source="Images\Tick.png" MouseLeftButtonDown="ok_Click" OpacityMask="#FFAE6464" RenderTransformOrigin="0.133,0.7"/>
+        <Image x:Name="no" Height="50" Margin="195,445,55,0" VerticalAlignment="Top" Width="50" Source="Images\failed.png" MouseLeftButtonDown="no_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
     </Grid>
 </Window>

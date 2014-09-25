@@ -1,0 +1,20 @@
+F:\C programming language\WPF\gif\GifImageLib\bin\Debug\GifImageLib.exe.config
+F:\C programming language\WPF\gif\GifImageLib\bin\Debug\GifImageLib.exe
+F:\C programming language\WPF\gif\GifImageLib\bin\Debug\GifImageLib.pdb
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\GifImageLib.csprojResolveAssemblyReference.cache
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\App.g.cs
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\GifImageLib_MarkupCompile.cache
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\GifImageLib.Properties.Resources.resources
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\GifImageLib.csproj.GenerateResource.Cache
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\GifImageLib.exe
+F:\C programming language\WPF\gif\GifImageLib\obj\Debug\GifImageLib.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\bin\Debug\GifImageLib.exe.config
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\bin\Debug\GifImageLib.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\bin\Debug\GifImageLib.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\GifImageLib.csprojResolveAssemblyReference.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\App.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\GifImageLib_MarkupCompile.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\GifImageLib.Properties.Resources.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\GifImageLib.csproj.GenerateResource.Cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\GifImageLib.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\gif\GifImageLib\obj\Debug\GifImageLib.pdb

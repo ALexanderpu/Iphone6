@@ -14,6 +14,6 @@
         </Grid.ColumnDefinitions>
         <Image x:Name="Back" Height="50" Margin="123,531,110,0" VerticalAlignment="Top" Width="50" Source="Images\back.png" MouseLeftButtonDown="back_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
         <Image x:Name="delete" Height="50" Margin="123,450,110,0" VerticalAlignment="Top" Width="50" Source="Images\ash-bin.png" MouseLeftButtonDown="delete_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
-        <TextBox x:Name="label1" HorizontalAlignment="Left" Height="333" Margin="27,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Background="#FFD1CECE" FontSize="22"/>
+        <TextBox x:Name="label1" HorizontalAlignment="Left" Height="220" Margin="26.534,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Background="#FF839963" FontSize="22"/>
     </Grid>
 </Window>

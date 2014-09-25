@@ -29,9 +29,9 @@ namespace iphone6
         //点击“开机”图标跳转到“登陆”界面
         private void StartButton_Click(object sender, RoutedEventArgs e)
         {
-            Login login = new Login();
-            login.Show();
-            this.Close();
+            boot s = new boot();
+            s.Show();
+            this.Hide();
         }
     }
 }

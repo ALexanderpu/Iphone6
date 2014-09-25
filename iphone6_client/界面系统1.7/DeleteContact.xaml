@@ -9,8 +9,8 @@
         <ImageBrush ImageSource="Images\background1.png"></ImageBrush>
     </Window.Background>
     <Grid>
-        <Label Content="Delete" HorizontalAlignment="Left" Height="52" Margin="111,186,0,0" VerticalAlignment="Top" Width="99" FontFamily="Curlz MT" FontSize="20" FontWeight="Bold"/>
-        <Label Content="Contact And Message?" HorizontalAlignment="Left" Height="71" Margin="34,220,0,0" VerticalAlignment="Top" Width="234" FontFamily="Curlz MT" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Delete" HorizontalAlignment="Left" Height="52" Margin="105,186,0,0" VerticalAlignment="Top" Width="99" FontFamily="STLiti" FontSize="32" FontWeight="Bold" Background="{x:Null}" Foreground="#FF933054"/>
+        <Label Content="Contact And Message?" HorizontalAlignment="Left" Height="52" Margin="35,243,0,0" VerticalAlignment="Top" Width="234" FontFamily="DokChampa" FontSize="24" FontWeight="Bold" Foreground="#FF7086D3"/>
         <Image x:Name="ok" Height="50" Margin="53,379,189,0" VerticalAlignment="Top" Width="50" Source="Images\Tick.png" MouseLeftButtonDown="ok_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
         <Image x:Name="no" Height="50" Margin="186,379,56,0" VerticalAlignment="Top" Width="50" Source="Images\failed.png" MouseLeftButtonDown="no_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
     </Grid>

@@ -13,6 +13,7 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
+    <ExpressionBlendVersion>12.0.41002.1</ExpressionBlendVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -54,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="boot.xaml.cs">
+      <DependentUpon>boot.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Client.cs" />
     <Compile Include="DBController.cs" />
     <Compile Include="delete.xaml.cs">
@@ -75,6 +79,10 @@
       <DependentUpon>SearchForm.xaml</DependentUpon>
     </Compile>
     <Compile Include="ShortMessage.cs" />
+    <Page Include="boot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="delete.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -168,12 +176,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Images\ContactIcon.png" />
     <Resource Include="Images\Start.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Main.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Images\boot1.gif" />
+    <Resource Include="Images\go.jpg" />
     <Resource Include="Images\background2.jpg" />
     <Resource Include="Images\login1.png" />
     <Resource Include="Images\background1.png" />
@@ -191,6 +202,12 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\gif\GifImageLib\GifImageLib.csproj">
+      <Project>{9af88625-d972-4d2b-8346-9e373dae3590}</Project>
+      <Name>GifImageLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

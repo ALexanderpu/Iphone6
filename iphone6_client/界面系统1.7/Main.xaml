@@ -13,9 +13,9 @@
         </Label>
         <TextBox x:Name="SearchBox" HorizontalAlignment="Left" Height="30" Margin="28,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" Background="#FFCBDCE6"/>
         <!--<Button Content="搜索" HorizontalAlignment="Left" Margin="196,122,0,0" VerticalAlignment="Top" Width="75"/>-->
-        <Image x:Name="Search_Click" Height="40" Margin="231,149,29,0" VerticalAlignment="Top" Width="40" Source="Images\search.png" MouseLeftButtonDown="search_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
-        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="205" Margin="28,202,0,0" VerticalAlignment="Top" Width="243" SelectionChanged="listBox1_SelectionChanged"/>
-        <Button Content="Write Message"  HorizontalAlignment="Left" Margin="68,453,0,0" VerticalAlignment="Top" Width="166" Click="Button_Click_1" Height="37" FontFamily="Curlz MT" FontSize="20" FontWeight="Bold"/>
+        <Image x:Name="Search_Click" Height="30" Margin="231,159,29,0" VerticalAlignment="Top" Width="40" Source="Images\search.png" MouseLeftButtonDown="search_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="230" Margin="28,210,0,0" VerticalAlignment="Top" Width="243" SelectionChanged="listBox1_SelectionChanged"/>
+        <Button Content="写短信"  HorizontalAlignment="Left" Margin="28,463,0,0" VerticalAlignment="Top" Width="243" Click="Button_Click_1" Height="37" FontFamily="David" FontSize="20" FontWeight="Bold" Background="#FF7C8FB9" Foreground="#FFF7DADA"/>
         <!--<Image x:Name="Send_message_Click" HorizontalAlignment="Left" Height="60" Margin="118,428,0,0" VerticalAlignment="Top" Width="60" Source="Images\writemessage.png" MouseLeftButtonDown="send_message_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>-->
         <Image x:Name="Shutdown_Click" HorizontalAlignment="Right" Height="50" Margin="0,539,123,0" VerticalAlignment="Top" Width="50" Source="Images\shutdown.png" MouseLeftButtonDown="shutdown_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
         <Label Content="Label" HorizontalAlignment="Left" Height="4" Margin="178,88,0,0" VerticalAlignment="Top" Width="56"/>

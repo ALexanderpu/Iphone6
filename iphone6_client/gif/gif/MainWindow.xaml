@@ -1,0 +1,14 @@
+﻿<Window x:Class="gif.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gifLib="clr-namespace:GifImageLib;assembly=GifImageLib"
+        Title="MainWindow" Height="600" Width="300"
+        WindowStyle = "None"
+        AllowsTransparency ="True">
+    <Window.Background>
+        <ImageBrush ImageSource="background1.png"></ImageBrush>
+    </Window.Background>
+    <Grid>
+        <gifLib:GifImage Source="boot1.gif" Stretch="Uniform"/>
+    </Grid>
+</Window>
