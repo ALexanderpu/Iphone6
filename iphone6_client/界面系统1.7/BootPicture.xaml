@@ -1,0 +1,8 @@
+﻿<Window x:Class="界面系统1._7.BootPicture"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BootPicture" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

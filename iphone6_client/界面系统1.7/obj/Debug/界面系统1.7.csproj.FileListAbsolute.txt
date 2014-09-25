@@ -1,0 +1,185 @@
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\bin\Debug\界面系统1.7.exe
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\bin\Debug\界面系统1.7.pdb
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.csprojResolveAssemblyReference.cache
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\MainWindow.baml
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\MainWindow.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\App.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7_MarkupCompile.cache
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.g.resources
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1._7.Properties.Resources.resources
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.csproj.GenerateResource.Cache
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.exe
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.pdb
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Login.baml
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Login.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Main.baml
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Main.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Newmessage.baml
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Newmessage.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Number.baml
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Number.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\bin\Debug\Images\background.png
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7_Content.g.cs
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Search.baml
+C:\Users\谭敏\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Search.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\bin\Debug\Images\background.png
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\bin\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\bin\Debug\界面系统1.7.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.csprojResolveAssemblyReference.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Login.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Main.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\MainWindow.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Newmessage.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Number.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Search.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Login.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Main.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\MainWindow.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Newmessage.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Number.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\Search.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\App.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7_Content.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7_MarkupCompile.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.g.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1._7.Properties.Resources.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.7\界面系统1.7\obj\Debug\界面系统1.7.csproj.GenerateResource.Cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\bin\Debug\Images\background.png
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\bin\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\bin\Debug\界面系统1.7.pdb
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7.csprojResolveAssemblyReference.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Login.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Main.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\MainWindow.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Newmessage.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Number.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Search.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Login.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Main.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\MainWindow.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Newmessage.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Number.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\Search.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\App.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7_Content.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7_MarkupCompile.cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7.g.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1._7.Properties.Resources.resources
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\界面系统1.7.csproj.GenerateResource.Cache
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\detailForm.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\detailForm.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\delete.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\delete.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\DeleteContact.baml
+C:\Users\白洋洋5066\Desktop\界面系统1.8\界面系统1.7\obj\Debug\DeleteContact.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统1.8 - 副本\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+C:\Users\白洋洋5066\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.pdb
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.exe
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.pdb
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\bin\Debug\Images\background.png
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\bin\Debug\界面系统1.7.exe
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\bin\Debug\界面系统1.7.pdb
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.csprojResolveAssemblyReference.cache
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\delete.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\DeleteContact.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\detailForm.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Login.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Main.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\MainWindow.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Newmessage.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Number.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Search.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\delete.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\DeleteContact.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\detailForm.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Login.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Main.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\MainWindow.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Newmessage.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Number.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\Search.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\App.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7_Content.g.cs
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7_MarkupCompile.cache
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.g.resources
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1._7.Properties.Resources.resources
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\界面系统1.7.csproj.GenerateResource.Cache
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\MessageBox.baml
+D:\Windows\Desktop\界面系统1.8 - 副本\界面系统1.7\obj\Debug\MessageBox.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.pdb
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.csprojResolveAssemblyReference.cache
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\delete.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DeleteContact.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\detailForm.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Login.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Main.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MainWindow.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MessageBox.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Newmessage.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Number.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DialogForm.baml
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\delete.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DeleteContact.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\detailForm.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Login.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Main.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MainWindow.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MessageBox.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Newmessage.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Number.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DialogForm.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\App.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7_Content.g.cs
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7_MarkupCompile.cache
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.g.resources
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1._7.Properties.Resources.resources
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.csproj.GenerateResource.Cache
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\bin\Debug\Images\background.png
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\bin\Debug\界面系统1.7.exe
+C:\Users\白洋洋5066\Desktop\界面系统2.9\界面系统1.7\bin\Debug\界面系统1.7.pdb
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\bin\Debug\界面系统1.7.exe.config
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.exe
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.pdb
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\bin\Debug\Images\background.png
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\bin\Debug\界面系统1.7.exe
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\bin\Debug\界面系统1.7.pdb
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.csprojResolveAssemblyReference.cache
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\delete.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DeleteContact.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\detailForm.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Login.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Main.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MainWindow.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MessageBox.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Newmessage.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Number.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DialogForm.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\delete.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DeleteContact.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\detailForm.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Login.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Main.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MainWindow.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\MessageBox.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Newmessage.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\Number.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\DialogForm.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\App.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7_Content.g.cs
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7_MarkupCompile.cache
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.g.resources
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1._7.Properties.Resources.resources
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\界面系统1.7.csproj.GenerateResource.Cache
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\SearchForm.baml
+D:\Windows\Desktop\界面系统2.9\界面系统1.7\obj\Debug\SearchForm.g.cs

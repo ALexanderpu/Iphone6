@@ -1,0 +1,19 @@
+﻿<Window x:Class="iphone6.detailForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="detailForm" Height="600" Width="300"
+        WindowStyle = "None"
+        AllowsTransparency="True">
+    <Window.Background>
+        <ImageBrush ImageSource="Images\background1.png"></ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="275*"/>
+            <ColumnDefinition Width="17*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="Back" Height="50" Margin="123,531,110,0" VerticalAlignment="Top" Width="50" Source="Images\back.png" MouseLeftButtonDown="back_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
+        <Image x:Name="delete" Height="50" Margin="123,450,110,0" VerticalAlignment="Top" Width="50" Source="Images\ash-bin.png" MouseLeftButtonDown="delete_Click" OpacityMask="Black" RenderTransformOrigin="0.133,0.7"/>
+        <TextBox x:Name="label1" HorizontalAlignment="Left" Height="333" Margin="27,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Background="#FFD1CECE" FontSize="22"/>
+    </Grid>
+</Window>
