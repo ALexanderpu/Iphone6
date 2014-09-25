@@ -18,7 +18,7 @@
 			</TransformGroup>
 		</Grid.RenderTransform>
 		<ListBox x:Name="Messagebox" HorizontalAlignment="Left" Height="230.07" Margin="31,204.921,0,0" VerticalAlignment="Top" Width="236" SelectionChanged="Messagebox_SelectionChanged"/>
-		<Label x:Name="SomeoneNum" Content="PhoneNumber" HorizontalAlignment="Left" Height="37" Margin="160.03,99.921,0,0" VerticalAlignment="Top" Width="105" FontFamily="Curlz MT" FontSize="16" RenderTransformOrigin="0.5,0.5" FontWeight="Bold">
+		<Label x:Name="SomeoneNum" Content="PhoneNumber" HorizontalAlignment="Left" Height="37" Margin="155.034,77.954,0,0" VerticalAlignment="Top" Width="105" FontFamily="Curlz MT" FontSize="16" RenderTransformOrigin="0.5,0.5" FontWeight="Bold">
 			<Label.RenderTransform>
 				<TransformGroup>
 					<ScaleTransform/>
